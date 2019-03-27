@@ -1,0 +1,12 @@
+可查看数据
+Network Hiistory
+System Log
+Heap Objects
+File Browser
+Cookie
+System Libraries
+
+UI
+
+https://www.jianshu.com/p/8bc4c5f4b19f
+通过runtime替换私有API实现数据抓取
